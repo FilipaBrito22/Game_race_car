@@ -6,6 +6,7 @@ With our amazing Car Racing Game, it is possible to have the experience of both 
 
 Single Player Mode
 In this mode, players engage in an amazing race on a challenging road, while earning score based on the distance they drive. The player's achievements are prominently displayed on the scoreboard interface (on the main menu) if they manage to secure a position among their top ten scores. Caution is advised when utilizing power-ups, as players may encounter detrimental ones such as speed boosts or inverted controls, as well as beneficial power-ups like invincibility or slowing effects.
+
 Multiplayer Mode
 In this game mode, two players may play the game in two different roads, and their main objective is to avoid crashing, as the first player to collide with a car loses the game. Both players will encounter power-ups, but here’s the special twist: if a player collides with a power-up that would negatively affect their car in the single player, in the multiplayer this effect will affect the adversary instead, making the game more exiting and competitive.
 
